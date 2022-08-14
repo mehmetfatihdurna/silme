@@ -1,0 +1,42 @@
+body{
+  background-color: #EEEEEE;
+
+}
+
+
+ul{
+  list-style-type: none;
+}
+
+nav{
+  background-color: #D72323;
+}
+
+.navbar-nav{
+  margin-left: auto;
+  text-align: right;
+}
+
+.last-post{
+  text-align: left;
+}
+
+.col-md-6{
+  border: 1px solid;
+}
+
+#main-page{
+  color: #303841;
+  margin-top: 5%;
+}
+
+img{
+  width:100%;
+}
+
+
+@media (max-width:1100px) {
+  .col-md-2{
+    display: none;
+  }
+}
